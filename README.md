@@ -1,5 +1,8 @@
-# ERC20Token
-> Created By Anudit Nagar (https://github.com/anuditnagar)
+# Anudit Coin
+
+[![Etherscan Link](https://img.shields.io/badge/Ropsten-0x363d2c0d90c7f18f69b5029ebb0ce038f8f877ea-blue.svg)](https://ropsten.etherscan.io/dapp/0x363d2c0d90c7f18f69b5029ebb0ce038f8f877ea)
+
+[![Binance](https://img.shields.io/badge/Binance-tbnb16uq5gcvg25psr2gqt5y0svn4j53n39lzxkuvl7-yellow.svg)](https://testnet-explorer.binance.org/asset/ANC-3EFa)
 
 Implementation of a BaseERC20Token
 ## ERC20Token
